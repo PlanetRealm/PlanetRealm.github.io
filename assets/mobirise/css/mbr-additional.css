@@ -3055,8 +3055,8 @@ body {
 }
 .cid-rzMJS58yY3 {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #cc2952);
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/loading0.svg");
 }
 .cid-rzMJS58yY3 .list-group-item {
   padding: .75rem 3.25rem;
