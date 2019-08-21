@@ -927,13 +927,13 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "sound": "https://soundcloud.com/bobmarley876/three-little-birds",
+            "sound": "https://soundcloud.com/user-768752762/sets/planetrealm-soundtrack",
             "autoplay": false,
             "fullWidth": true,
             "bgColor": "#6aa74f"
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F274533418&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F274533418",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F851689658&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F851689658",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
